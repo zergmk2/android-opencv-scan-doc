@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">android_opencv</string>
+    <string name="str_import">import</string>
+    <string name="str_gallery">gallery</string>
+    <string name="str_slideshow">slideshow</string>
+    <string name="str_tools">tools</string>
 </resources>

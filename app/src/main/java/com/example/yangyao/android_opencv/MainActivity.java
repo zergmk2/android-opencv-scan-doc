@@ -48,11 +48,19 @@ public class MainActivity extends AppCompatActivity {
     Bitmap origBitmap;
     Bitmap dstBitmap;
 
+    public Bitmap getSrcBitmap() {
+        return srcBitmap;
+    }
+
+    public void setSrcBitmap(Bitmap srcBitmap) {
+        this.srcBitmap = srcBitmap;
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
+//        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main_menu);
         initView();
 
 
@@ -62,6 +70,12 @@ public class MainActivity extends AppCompatActivity {
         final ImageView img = (ImageView) findViewById(R.id.imageView);
         Button greyScaleBtn= (Button) findViewById(R.id.button);
         Button linesBtn= (Button) findViewById(R.id.button2);
+        greyScaleBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
         // init OpenCV
 
         // *Resources
@@ -138,11 +152,14 @@ public class MainActivity extends AppCompatActivity {
         int h_proc = (int) (h * 1.0 / scale);
         srcBitmap = Bitmap.createScaledBitmap(origBitmap, w_proc, h_proc, false);
         grayBitmap = Bitmap.createBitmap(w_proc, h_proc, Bitmap.Config.RGB_565);
-        Utils.bitmapToMat(srcBitmap, rgbMat);//convert original bitmap to Mat, R G B.
+        //convert original bitmap to Mat, R G B.
+        Utils.bitmapToMat(srcBitmap, rgbMat);
 
         // grayscale
-        Imgproc.cvtColor(rgbMat, grayMat, Imgproc.COLOR_RGB2GRAY);//rgbMat to gray grayMat
-        Utils.matToBitmap(grayMat, grayBitmap); //convert mat to bitmap
+        //rgbMat to gray grayMat
+        Imgproc.cvtColor(rgbMat, grayMat, Imgproc.COLOR_RGB2GRAY);
+         //convert mat to bitmap
+        Utils.matToBitmap(grayMat, grayBitmap);
         img.setImageBitmap(grayBitmap);
     }
 

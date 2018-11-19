@@ -1,7 +1,6 @@
 package org.opencv.android;
 
-//import org.opencv.R;
-import com.example.yangyao.android_opencv.R;
+import org.opencv.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

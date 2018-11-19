@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a118dfe9ae5123ff4bc3f6ddc0346cc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5417603a57dba6a4ec25293a7e5ead71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5e9b0ee819aee405030d832295ab7be2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2dbd24eb942d5199bd3e64bed2f5308b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02165a83c610a7bb9ce90f1447935c44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/77fce362e1077c1e43fb515d9082f47e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f7b2ce50aa275e4692f9dc046722a9fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8ef3abc726f50440aa51bc2a963a6006/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/217ade9effd79d10000c21901154cfe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2598da80c19c05527eb4d9d95438e759/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/87e873152a845369057546d3dad59423/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0a9f4214bbbed5ebafe9a75116a2de95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/756d7e688c076821b1f5d8ee62835fd9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/abcfb78b67e9a1617b9b1b9ebfb72479/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7b713a058ae5a9f82a89066ca4b26cfa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/069adf12654fb73f00f2e3baec8dd447/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:6:5-19:19
+	android:supportsRtl
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.yangyao.android_opencv.MainActivity
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a118dfe9ae5123ff4bc3f6ddc0346cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a118dfe9ae5123ff4bc3f6ddc0346cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5417603a57dba6a4ec25293a7e5ead71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5417603a57dba6a4ec25293a7e5ead71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5e9b0ee819aee405030d832295ab7be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5e9b0ee819aee405030d832295ab7be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2dbd24eb942d5199bd3e64bed2f5308b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2dbd24eb942d5199bd3e64bed2f5308b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02165a83c610a7bb9ce90f1447935c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02165a83c610a7bb9ce90f1447935c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/77fce362e1077c1e43fb515d9082f47e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/77fce362e1077c1e43fb515d9082f47e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f7b2ce50aa275e4692f9dc046722a9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f7b2ce50aa275e4692f9dc046722a9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8ef3abc726f50440aa51bc2a963a6006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8ef3abc726f50440aa51bc2a963a6006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/217ade9effd79d10000c21901154cfe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/217ade9effd79d10000c21901154cfe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2598da80c19c05527eb4d9d95438e759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2598da80c19c05527eb4d9d95438e759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/87e873152a845369057546d3dad59423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/87e873152a845369057546d3dad59423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0a9f4214bbbed5ebafe9a75116a2de95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/caolu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0a9f4214bbbed5ebafe9a75116a2de95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/756d7e688c076821b1f5d8ee62835fd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/756d7e688c076821b1f5d8ee62835fd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/abcfb78b67e9a1617b9b1b9ebfb72479/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/abcfb78b67e9a1617b9b1b9ebfb72479/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7b713a058ae5a9f82a89066ca4b26cfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7b713a058ae5a9f82a89066ca4b26cfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/069adf12654fb73f00f2e3baec8dd447/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/caolu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/069adf12654fb73f00f2e3baec8dd447/AndroidManifest.xml:20:5-44
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caolu/github/android-opencv-scan-doc/app/src/main/AndroidManifest.xml
